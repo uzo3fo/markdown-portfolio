@@ -1,1 +1,1 @@
-[GitHub](http://github.com/uzo3fo)
+[GitHub](http://github.com/uzo3fo/markdown-portfolio)
