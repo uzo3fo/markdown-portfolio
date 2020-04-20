@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Fredrick Chibuzor Osuala
+### Markdown Portfolio
+##### courtesy: GithubTeacher
